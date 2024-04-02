@@ -6,7 +6,7 @@ In this project, I leveraged the power of **Terraform Provisioners** and **AWS**
 ![diagram](https://github.com/mathesh-me/application-deployment-in-aws-terraform/assets/144098846/03e4386d-3d6f-4d96-ba07-fe828175a634)
 
 
-## Key Features:
+## Key Features:    
 
 ### Infrastructure as Code (IaC): 
 Embrace the IaC philosophy by defining my AWS infrastructure in code. Terraform scripts provide a clear and version-controlled representation of my environment.
